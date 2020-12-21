@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm a full stack developer , I can use different technologies for building apps from scratch , such as React.Js and Vue.Js , Next.Js and Flask ,(Node.Js) Express.Js ,
+#### I'm a full stack developer , I can use different technologies to build apps from scratch , such as React.Js and Vue.Js , Next.Js and Flask ,(Node.Js) Express.Js ,
 #### Mongodb and MySql.
 #### I can also build Mobile applications using React-Native.
 
