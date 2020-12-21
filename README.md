@@ -10,7 +10,7 @@
 [logo]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIk42GFdCUMOuMMXZuhfS0nqHOctKkOYXTLQ&usqp=CAU "javascript framework"
 
 
-[logo1]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIk42GFdCUMOuMMXZuhfS0nqHOctKkOYXTLQ&usqp=CAU "Python"
+[logo1]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf2gnd9qjwAvpU-lFSx1jxKqcZxZRwIwA1Sg&usqp=CAU "Python"
 
 <!--
 **azizmobarak/azizmobarak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
