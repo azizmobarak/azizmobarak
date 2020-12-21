@@ -4,7 +4,6 @@
 #### I can also build Mobile applications using React-Native.
 
 ![alt text][logo]
-
 ![alt text][logo1]
 
 [logo]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIk42GFdCUMOuMMXZuhfS0nqHOctKkOYXTLQ&usqp=CAU "javascript framework"
