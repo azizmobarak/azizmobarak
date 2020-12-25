@@ -2,11 +2,15 @@
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/azizmobarak)
 
 #### I'm a full stack developer , I can use different technologies to build apps from scratch , such as React.Js and Vue.Js , Next.Js and Flask ,(Node.Js) Express.Js ,
 #### Mongodb and MySql.
 #### I can also build Mobile applications using React-Native.
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+
 
 
 ## ✉️ Find me on:
