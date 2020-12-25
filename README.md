@@ -9,7 +9,7 @@
 #### I can also build Mobile applications using React-Native.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=azizmobarak&show_icons=true&theme=tokyonight)
 
 
 
