@@ -31,6 +31,5 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizmobarak&hide=contribs,prs)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=azizmobarak&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmobarak&theme=tokyonight)
