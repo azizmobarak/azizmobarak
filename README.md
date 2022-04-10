@@ -4,12 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/azizmobarak)
 
-#### I'm a full stack developer , I can use different technologies to build apps from scratch , such as React.Js and Vue.Js , Next.Js and Flask ,(Node.Js) Express.Js ,
-#### Mongodb and MySql.
-#### I can also build Mobile applications using React-Native.
-
-
-<a href="https://app.daily.dev/Mobarak"><img src="https://api.daily.dev/devcards/76b44ce26a714f2d82d0fb4a40fdfd43.png?r=pbb" width="400" alt="Aziz's Dev Card"/></a>
+Hey There! , I m a mobile and full stack developer, I use many JS technologies such as React/React-native , Angular, VueJs , NodeJs.
 
 
 ## ✉️ Find me on:
