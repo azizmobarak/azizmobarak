@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/azizmobarak)
 
-Hey There! , I m a mobile and full stack developer, I use many JS technologies such as React/React-native , Angular, VueJs , NodeJs.
+Hey There! , I m a full stack javascript developer.
 
 
 ## ✉️ Find me on:
