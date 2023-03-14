@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/azizmobarak)
+![](https://visitor-badge.laobi.icu/badge?page_id=azizmobarak.azizmobarak)
+[![Github](https://img.shields.io/github/followers/azizmobarak?label=Follow&style=social)](https://github.com/azizmobarak)
 
 Hey There! , I m a full stack javascript developer.
 
