@@ -1,5 +1,5 @@
 # Hi there, I'm Aziz Mobarak! 👋
-
+[![Aziz States: ](https://wakatime.com/badge/user/c0b53685-6211-4374-b412-40cc10ea4fd3.svg)](https://wakatime.com/@c0b53685-6211-4374-b412-40cc10ea4fd3)
 ## About Me
 I'm a passionate developer specializing in [Your Field/Interest]. I love coding and solving problems to create meaningful solutions. Here are a few things about me:
 
@@ -17,9 +17,7 @@ I'm a passionate developer specializing in [Your Field/Interest]. I love coding 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmobarak&layout=compact&theme=transparent)
 
 ## STATES
-
-
-[![Aziz States: ](https://wakatime.com/badge/user/c0b53685-6211-4374-b412-40cc10ea4fd3.svg)](https://wakatime.com/@c0b53685-6211-4374-b412-40cc10ea4fd3)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?azizmobarak=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
 Let's connect and chat! You can find me on the following platforms:
