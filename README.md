@@ -13,7 +13,7 @@ I'm a passionate developer specializing in [Your Field/Interest]. I love coding 
 - Tools/Platforms: Git/GitHub, Docker, AWS
 
 ## GitHub Stats
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizmobarak&show_icons=true&theme=radical)
+![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizmobarak&show_icons=true&theme=gruvbox)
 
 ## Connect with Me
 Let's connect and chat! You can find me on the following platforms:
