@@ -14,7 +14,10 @@ I'm a passionate developer specializing in [Your Field/Interest]. I love coding 
 
 ## GitHub Stats
 ![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizmobarak&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmobarak&langs_count=4&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmobarak&layout=compact&theme=transparent)
+
+
+[![Aziz's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizmobarak&theme=transparent)](https://github.com/azizmobarak/github-readme-stats)
 
 ## Connect with Me
 Let's connect and chat! You can find me on the following platforms:
