@@ -7,6 +7,8 @@ I'm a passionate developer specializing in [Your Field/Interest]. I love coding 
 - 🌱 I’m currently learning obfuscating, reverse engineering, blockchaine ...
 - 📫 How to reach me: [mobarakaziz9@fmail.com]
 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=azizmobarak&theme=dark&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
+
 ## Skills
 - Languages: JavaScript, Python, HTML/CSS, SQL
 - Frameworks/Libraries: React, Node.js, Express.js
@@ -18,8 +20,6 @@ I'm a passionate developer specializing in [Your Field/Interest]. I love coding 
 
 ## STATES
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizmobarak)]
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=azizmobarak&theme=dark)]
 
 ## Connect with Me
 Let's connect and chat! You can find me on the following platforms:
