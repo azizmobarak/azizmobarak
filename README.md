@@ -19,6 +19,8 @@ I'm a passionate developer specializing in [Your Field/Interest]. I love coding 
 ## STATES
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizmobarak)]
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=azizmobarak&theme=dark)]
+
 ## Connect with Me
 Let's connect and chat! You can find me on the following platforms:
 
