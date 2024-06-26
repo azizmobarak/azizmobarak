@@ -17,7 +17,7 @@ I'm a passionate developer specializing in [Your Field/Interest]. I love coding 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmobarak&layout=compact&theme=transparent)
 
 ## STATES
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizmobarak)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizmobarak)]
 
 ## Connect with Me
 Let's connect and chat! You can find me on the following platforms:
