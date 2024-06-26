@@ -7,18 +7,15 @@ I'm a passionate developer specializing in [Your Field/Interest]. I love coding 
 - 🌱 I’m currently learning obfuscating, reverse engineering, blockchaine ...
 - 📫 How to reach me: [mobarakaziz9@fmail.com]
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=azizmobarak&theme=dark&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ## Skills
 - Languages: JavaScript, Python, HTML/CSS, SQL
 - Frameworks/Libraries: React, Node.js, Express.js
 - Tools/Platforms: Git/GitHub, Docker, AWS
 
-## GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=azizmobarak&theme=dark&mode=weekly&card_width=700&card_height=250)]
 ![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizmobarak&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmobarak&layout=compact&theme=transparent)
-
-## STATES
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizmobarak)]
 
 ## Connect with Me
