@@ -1,7 +1,7 @@
 # Hi there, I'm Aziz Mobarak! 👋
 [![Aziz States: ](https://wakatime.com/badge/user/c0b53685-6211-4374-b412-40cc10ea4fd3.svg)](https://wakatime.com/@c0b53685-6211-4374-b412-40cc10ea4fd3)
 ## About Me
-I'm a passionate developer specializing in [Your Field/Interest]. I love coding and solving problems to create meaningful solutions. Here are a few things about me:
+I'm a passionate developer specializing in Javascript libraries and frameworks, I love coding and solving problems to create meaningful solutions. Here are a few things about me:
 
 - 💻 I’m currently working on many projects.
 - 🌱 I’m currently learning obfuscating, reverse engineering, blockchaine ...
