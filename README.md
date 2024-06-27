@@ -5,7 +5,7 @@ I'm a passionate developer specializing in Javascript libraries and frameworks, 
 
 - 💻 I’m currently working on many projects.
 - 🌱 I’m currently learning obfuscating, reverse engineering, blockchaine ...
-- 📫 How to reach me: [mobarakaziz9@fmail.com]
+- 📫 How to reach me: [mobarakaziz9@gmail.com]
 
 
 ## Skills
