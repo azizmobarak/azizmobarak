@@ -7,7 +7,7 @@ I'm a passionate developer specializing in Javascript libraries and frameworks, 
 - 🌱 I’m currently learning obfuscating, reverse engineering, blockchaine ...
 - 📫 How to reach me: [mobarakaziz9@gmail.com]
 
-
+<!---
 ## Skills
 - Languages: JavaScript, Python, HTML/CSS, SQL
 - Frameworks/Libraries: React, Node.js, Express.js
@@ -28,4 +28,4 @@ Let's connect and chat! You can find me on the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/azizmobarak/)
 - [Twitter](https://twitter.com/mobarakaziz95)
 
-Feel free to reach out! 😊
+Feel free to reach out! 😊 -->
