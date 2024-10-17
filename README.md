@@ -16,11 +16,11 @@ I'm a passionate developer specializing in Javascript libraries and frameworks, 
 ![GitHub Streak](https://streak-stats.demolab.com?user=azizmobarak&theme=dark&mode=weekly&card_width=700&card_height=250)]
 ![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizmobarak&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmobarak&layout=compact&theme=transparent)
-
+ -->
 ## From 26 JUN 2024
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizmobarak)]
-
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizmobarak)
+<!---
 ## Connect with Me
 Let's connect and chat! You can find me on the following platforms:
 
