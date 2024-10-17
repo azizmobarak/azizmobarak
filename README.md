@@ -17,7 +17,7 @@ I'm a passionate developer specializing in Javascript libraries and frameworks, 
 ![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizmobarak&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmobarak&layout=compact&theme=transparent)
  -->
-## From 26 JUN 2024
+## Technologies and Languages i am using (From 26 JUN 2024)
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizmobarak)
 <!---
